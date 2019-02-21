@@ -11,3 +11,6 @@ TestResults
 *.exe
 
 /templates
+/.vs
+/shadowsocks-csharp/publish
+/shadowsocks-csharp/shadowsocks-csharp_TemporaryKey.pfx
